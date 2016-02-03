@@ -7,7 +7,19 @@ title: "Download MediaConch for Ubuntu"
 # Download - Ubuntu (Ubuntu, Kubuntu, Xbuntu...), Linux Mint
 
 <img src="/MediaConch/images/Ubuntu.png" width="304" height="79" alt="Ubuntu"><img src="/MediaConch/images/Linux_Mint.png" width="256" height="75" alt="Linux Mint"><br/>
- 
+
+<h5>How to install this packages</h5>
+
+<p>
+In a terminal, type :<br />
+"sudo dpkg -i \*deb"<br />
+and then:<br />
+"sudo apt-get -f install"
+</p>
+<p>
+Note for Linux Mint: before installing this packages, you need to open the Software Sources utility, click on Additional repositories, click on Add a new repository, enter "deb http://fr.archive.ubuntu.com/ubuntu/ trusty-backports main restricted universe multiverse", and then click Update the cache.
+</p>
+
 <table border="1">
 <tr class="table-header">
     <th>Version</th>

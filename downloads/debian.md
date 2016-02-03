@@ -8,6 +8,15 @@ title: "Download MediaConch for Debian"
 
 <img src="/MediaConch/images/Debian.png" width="229" height="61"><br/>
 
+<h5>How to install this packages</h5>
+
+<p>
+In a terminal, type :<br />
+"sudo dpkg -i \*deb"<br />
+and then:<br />
+"sudo apt-get -f install"
+</p>
+
 <table border="1">
 <tr class="table-header">
     <th>Version</th>
