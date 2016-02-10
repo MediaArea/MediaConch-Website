@@ -16,9 +16,6 @@ In a terminal, type :<br />
 and then:<br />
 "sudo apt-get -f install"
 </p>
-<p>
-Note for Linux Mint: before installing this packages, you need to open the Software Sources utility, click on Additional repositories, click on Add a new repository, enter "deb http://fr.archive.ubuntu.com/ubuntu/ trusty-backports main restricted universe multiverse", and then click Update the cache.
-</p>
 
 <table border="1">
 <tr class="table-header">
