@@ -21,7 +21,7 @@ title: "Download MediaConch for openSUSE"
 <tbody>
 
 <tr>
-	<th rowspan="5">Leap_42.1</th>
+	<th rowspan="5">Leap 42.1</th>
     <th rowspan="5" id="Leap_42.1.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
     <td><a href="http://mediaarea.net/download/binary/mediaconch-gui/16.04/mediaconch-gui-16.04.x86_64.openSUSE_Leap_42.1.rpm">v16.04</a></td>
