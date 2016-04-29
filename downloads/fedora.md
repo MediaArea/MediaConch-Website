@@ -24,212 +24,212 @@ title: "Download MediaConch for Fedora"
 	<th rowspan="10">23</th>
     <th rowspan="5" id="23.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch-gui/16.04/mediaconch-gui-16.04.x86_64.Fedora_23.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.04/mediaconch-gui-16.04.x86_64.Fedora_23.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch/16.04/mediaconch-16.04.x86_64.Fedora_23.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.04/mediaconch-16.04.x86_64.Fedora_23.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch-server/16.04/mediaconch-server-16.04.x86_64.Fedora_23.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.04/mediaconch-server-16.04.x86_64.Fedora_23.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="http://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo0-0.7.85.x86_64.Fedora_23.rpm">v0.7.85</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo-devel-0.7.85.x86_64.Fedora_23.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo0-0.7.85.x86_64.Fedora_23.rpm">v0.7.85</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo-devel-0.7.85.x86_64.Fedora_23.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="http://mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.Fedora_23.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.Fedora_23.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.Fedora_23.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.Fedora_23.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th rowspan="5" id="23.i686">i686</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch-gui/16.04/mediaconch-gui-16.04.i686.Fedora_23.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.04/mediaconch-gui-16.04.i686.Fedora_23.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch/16.04/mediaconch-16.04.i686.Fedora_23.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.04/mediaconch-16.04.i686.Fedora_23.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch-server/16.04/mediaconch-server-16.04.i686.Fedora_23.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.04/mediaconch-server-16.04.i686.Fedora_23.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="http://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo0-0.7.85.i686.Fedora_23.rpm">v0.7.85</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo-devel-0.7.85.i686.Fedora_23.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo0-0.7.85.i686.Fedora_23.rpm">v0.7.85</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo-devel-0.7.85.i686.Fedora_23.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="http://mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i686.Fedora_23.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i686.Fedora_23.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i686.Fedora_23.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i686.Fedora_23.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
 	<th rowspan="10">22</th>
     <th rowspan="5" id="22.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch-gui/16.04/mediaconch-gui-16.04.x86_64.Fedora_22.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.04/mediaconch-gui-16.04.x86_64.Fedora_22.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch/16.04/mediaconch-16.04.x86_64.Fedora_22.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.04/mediaconch-16.04.x86_64.Fedora_22.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch-server/16.04/mediaconch-server-16.04.x86_64.Fedora_22.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.04/mediaconch-server-16.04.x86_64.Fedora_22.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="http://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo0-0.7.85.x86_64.Fedora_22.rpm">v0.7.85</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo-devel-0.7.85.x86_64.Fedora_22.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo0-0.7.85.x86_64.Fedora_22.rpm">v0.7.85</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo-devel-0.7.85.x86_64.Fedora_22.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="http://mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.Fedora_22.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.Fedora_22.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.Fedora_22.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.Fedora_22.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th rowspan="5" id="22.i686">i686</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch-gui/16.04/mediaconch-gui-16.04.i686.Fedora_22.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.04/mediaconch-gui-16.04.i686.Fedora_22.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch/16.04/mediaconch-16.04.i686.Fedora_22.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.04/mediaconch-16.04.i686.Fedora_22.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch-server/16.04/mediaconch-server-16.04.i686.Fedora_22.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.04/mediaconch-server-16.04.i686.Fedora_22.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="http://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo0-0.7.85.i686.Fedora_22.rpm">v0.7.85</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo-devel-0.7.85.i686.Fedora_22.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo0-0.7.85.i686.Fedora_22.rpm">v0.7.85</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo-devel-0.7.85.i686.Fedora_22.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="http://mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i686.Fedora_22.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i686.Fedora_22.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i686.Fedora_22.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i686.Fedora_22.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
 	<th rowspan="10">21</th>
     <th rowspan="5" id="21.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch-gui/16.04/mediaconch-gui-16.04.x86_64.Fedora_21.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.04/mediaconch-gui-16.04.x86_64.Fedora_21.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch/16.04/mediaconch-16.04.x86_64.Fedora_21.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.04/mediaconch-16.04.x86_64.Fedora_21.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch-server/16.04/mediaconch-server-16.04.x86_64.Fedora_21.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.04/mediaconch-server-16.04.x86_64.Fedora_21.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="http://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo0-0.7.85.x86_64.Fedora_21.rpm">v0.7.85</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo-devel-0.7.85.x86_64.Fedora_21.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo0-0.7.85.x86_64.Fedora_21.rpm">v0.7.85</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo-devel-0.7.85.x86_64.Fedora_21.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="http://mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.Fedora_21.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.Fedora_21.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.Fedora_21.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.Fedora_21.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th rowspan="5" id="21.i686">i686</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch-gui/16.04/mediaconch-gui-16.04.i686.Fedora_21.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.04/mediaconch-gui-16.04.i686.Fedora_21.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch/16.04/mediaconch-16.04.i686.Fedora_21.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.04/mediaconch-16.04.i686.Fedora_21.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch-server/16.04/mediaconch-server-16.04.i686.Fedora_21.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.04/mediaconch-server-16.04.i686.Fedora_21.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="http://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo0-0.7.85.i686.Fedora_21.rpm">v0.7.85</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo-devel-0.7.85.i686.Fedora_21.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo0-0.7.85.i686.Fedora_21.rpm">v0.7.85</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo-devel-0.7.85.i686.Fedora_21.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="http://mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i686.Fedora_21.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i686.Fedora_21.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i686.Fedora_21.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i686.Fedora_21.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
 	<th rowspan="10">20 (Heisenbug)</th>
     <th rowspan="5" id="20.x86_64">x86_64</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch-gui/16.04/mediaconch-gui-16.04.x86_64.Fedora_20.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.04/mediaconch-gui-16.04.x86_64.Fedora_20.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch/16.04/mediaconch-16.04.x86_64.Fedora_20.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.04/mediaconch-16.04.x86_64.Fedora_20.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch-server/16.04/mediaconch-server-16.04.x86_64.Fedora_20.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.04/mediaconch-server-16.04.x86_64.Fedora_20.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="http://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo0-0.7.85.x86_64.Fedora_20.rpm">v0.7.85</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo-devel-0.7.85.x86_64.Fedora_20.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo0-0.7.85.x86_64.Fedora_20.rpm">v0.7.85</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo-devel-0.7.85.x86_64.Fedora_20.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="http://mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.Fedora_20.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.Fedora_20.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.Fedora_20.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.Fedora_20.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
     <th rowspan="5" id="20.i686">i686</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch-gui/16.04/mediaconch-gui-16.04.i686.Fedora_20.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.04/mediaconch-gui-16.04.i686.Fedora_20.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch/16.04/mediaconch-16.04.i686.Fedora_20.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch/16.04/mediaconch-16.04.i686.Fedora_20.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="http://mediaarea.net/download/binary/mediaconch-server/16.04/mediaconch-server-16.04.i686.Fedora_20.rpm">v16.04</a></td>
+    <td><a href="//mediaarea.net/download/binary/mediaconch-server/16.04/mediaconch-server-16.04.i686.Fedora_20.rpm">v16.04</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="http://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo0-0.7.85.i686.Fedora_20.rpm">v0.7.85</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo-devel-0.7.85.i686.Fedora_20.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo0-0.7.85.i686.Fedora_20.rpm">v0.7.85</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.85/libmediainfo-devel-0.7.85.i686.Fedora_20.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="http://mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i686.Fedora_20.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i686.Fedora_20.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i686.Fedora_20.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i686.Fedora_20.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 </tbody>
