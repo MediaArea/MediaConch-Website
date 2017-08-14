@@ -23,10 +23,10 @@ Developers (people who design the formats) &#43;
 Open Standardization Contributors (people who write specification for formats)
 
 Together!
- 
+
  ----------
 
-## What 
+## What
 A FREE two day symposium focused on open media, open standards, and digital audiovisual preservation hosted by [Österreichisches Filmmuseum - Austrian Film Museum](https://www.filmmuseum.at) and [MediaArea.net](https://mediaarea.net). The event will feature presentations and discussion on topics such as:
 
 - active open media standardization projects
@@ -44,7 +44,7 @@ Thursday, November 9, 2017 and Friday, November 10, 2017
 ## Where
 [Österreichisches Filmmuseum - Austrian Film Museum](https://www.filmmuseum.at)
 
-![Österreichisches Filmmuseum - Austrian Film Museum](/MediaConch/images/Filmmuseum_04s.jpeg)  
+![Österreichisches Filmmuseum - Austrian Film Museum](/MediaConch/images/Filmmuseum_04s.jpeg)
 *Photo Credit: [Austrian Film Museum](https://www.filmmuseum.at/en/press/presse_detail?presse_subkategorie_id=1466964180163&presse_kategorie_id=1466964180159)*
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2659.100264253581!2d16.36601341613128!3d48.204684654462596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d079bf206f889%3A0xb713b75935f59751!2s%C3%96sterreichisches+Filmmuseum!5e0!3m2!1sen!2sus!4v1500834507933" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -66,7 +66,7 @@ CALL FOR PROPOSALS IS NOW OPEN
 ## Hotel Info:
 Coming soon!
 
-## Schedule 
+## Schedule
 Coming soon!
 
 The schedule for the 2016 No Time to Wait may be viewed [here](https://docs.google.com/spreadsheets/d/1XRgwKwF6Y2LPy5h-peCag9knn4WZcehI9TI9Qs9a9i4/edit?usp=sharing).
