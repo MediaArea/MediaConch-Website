@@ -10,7 +10,7 @@ title: "No Time to Wait 2: Open Media, Open Formats, Open Archives"
 
 A 2 day symposium on the intersection of *open media*, *standardization*, and *audiovisual preservation*.
 
-Event Hashtag: **#notimetowait**
+Event Hashtag: **[#nttw17](https://twitter.com/search?f=tweets&vertical=default&q=%23nttw17&src=typd)**
 
 Hosted by the [Österreichisches Filmmuseum - Austrian Film Museum](https://www.filmmuseum.at) and [MediaArea.net](https://mediaarea.net)
 
